@@ -13,3 +13,5 @@ public class largest {
         }
     }
 }
+
+THE OUTPUT OF TGIS CODE IS "6 IS THE LARGEST"
